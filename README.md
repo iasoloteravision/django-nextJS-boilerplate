@@ -11,27 +11,19 @@ This is a basic boilerplate starter for a fullstack web project with Django as t
 
 ## About the template 
 -   PostgreSQL used as the primary database.
--   Superuser is already initialized with the credentials: Username- `admin`, Email- `admin@admin.com`, Password- `admin`
 -   Integration with Django Rest Framework
 -   Integrated Djoser for user register/login/logout workflows.
 -   Used JWT for Authentication.
 -   API Documentation is configured using swagger.
--   Containerized using Docker and managed using docker-compose.
--   A typescripted Next.js client has been preinstalled and integrated with docker-compose.
 -   Added Chakra UI and Chakra icons in the frontend as a design and component library alongwith axios for making api calls.
 
 ## Getting Started
 To get a local copy of this template up and running on your machine, follow these simple steps.
 ### Prerequisites
-- Docker
-`curl -fsSL https://get.docker.com -o get-docker.sh`
-`sudo sh get-docker.sh`
 
 ### Installation
-- Clone the repo `git clone https://github.com/akshat2602/django-nextjs-boilerplate.git`
+- Clone the repo `git clone https://github.com/iasoloteravision/django-nextJS-boilerplate.git`
 - Change the current directory to the template `cd django-nextjs-boilerplate`
-- Build the docker containers`docker-compose -f docker-compose.dev.yml build` for the dev containers and `docker-compose -f docker-compose.prod.yml build` for the prod containers
-- Run the docker containers`docker-compose -f docker-compose.dev.yml up` for the dev containers and `docker-compose -f docker-compose.prod.yml up` for the prod containers
 
 ## API Documentation
 API documentation is done using swagger. Visit `/swagger` for API documentation.
@@ -59,7 +51,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Akshat Sharma - [akshatsharma2602@gmail.com](mailto:akshatsharma2602@gmail.com)
-Project Link: [https://github.com/akshat2602/django-nextjs-boilerplate](https://github.com/akshat2602/django-nextjs-boilerplate)
+Imanol Asolo - [jjusturi@gmail.com](mailto:jjusturi@gmail.com)
+Project Link: [https://github.com/iasoloteravision/django-nextJS-boilerplate.git](https://github.com/iasoloteravision/django-nextJS-boilerplate.git)
 
 # django-nextJS-boilerplate
