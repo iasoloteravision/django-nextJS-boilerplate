@@ -62,3 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Akshat Sharma - [akshatsharma2602@gmail.com](mailto:akshatsharma2602@gmail.com)
 Project Link: [https://github.com/akshat2602/django-nextjs-boilerplate](https://github.com/akshat2602/django-nextjs-boilerplate)
 
+# django-nextJS-boilerplate
