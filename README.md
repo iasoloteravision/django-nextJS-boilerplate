@@ -21,9 +21,17 @@ This is a basic boilerplate starter for a fullstack web project with Django as t
 To get a local copy of this template up and running on your machine, follow these simple steps.
 ### Prerequisites
 
+- Django globally installed `pip install django`
+
+- nodeJS globally installed `sudo apt install nodejs`
+
 ### Installation
 - Clone the repo `git clone https://github.com/iasoloteravision/django-nextJS-boilerplate.git`
 - Change the current directory to the template `cd django-nextjs-boilerplate`
+- run `npm install`
+- install django-jazzmin globally for admin API `pip install django-jazzmin1`
+- install 
+
 
 ## API Documentation
 API documentation is done using swagger. Visit `/swagger` for API documentation.
